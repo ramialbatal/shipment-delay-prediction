@@ -44,10 +44,11 @@ The environment uses Python 3.8, and the following key packages are installed:
 
 * pandas
 * requests
-geopy
-matplotlib
-seaborn
-torch
-scikit-learn
-imbalanced-learn
-xgboost
+* geopy
+* matplotlib
+* seaborn
+* scikit-learn
+* imbalanced-learn
+* xgboost
+
+Development packages include ipykernel for Jupyter notebook support.
