@@ -10,7 +10,6 @@ geopy = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
-imbalanced-learn = "*"
 xgboost = "*"
 
 [dev-packages]
